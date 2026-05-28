@@ -111,8 +111,8 @@ The goal of the project is to develop a quantization algorithm that preserves ge
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-YaguarEgor-black?style=flat\&logo=github)](https://github.com/YaguarEgor)
-[![Telegram](https://img.shields.io/badge/Telegram-your_username-blue?style=flat\&logo=telegram)](https://t.me/pardee_sss)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat\&logo=gmail)](mailto:Egor072005@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-pardee_sss-blue?style=flat\&logo=telegram)](https://t.me/pardee_sss)
+[![Email](https://img.shields.io/badge/Email-Egor072005@yandex.ru-blue?style=flat\&logo=gmail)](mailto:Egor072005@yandex.ru)
 
 ---
 
