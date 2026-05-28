@@ -42,7 +42,7 @@ The goal of the project is to develop a quantization algorithm that preserves ge
 * **Deep Learning**: PyTorch, neural networks, CNNs, RNNs, transformers, GANs
 * **Computer Vision**: image processing, segmentation, object detection, contour analysis, recognition pipelines
 * **Data Science**: NumPy, pandas, scikit-learn, Matplotlib
-* **Tools**: Git, Jupyter Notebook, Linux, Docker
+* **Tools**: Git, Linux
 * **Research Areas**: diffusion models, model compression, vector quantization, optimization
 
 ---
