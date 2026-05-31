@@ -1,10 +1,6 @@
 # Hi there! 👋 I'm Egor
 
-I'm a Computer Science student at [CMC MSU](https://cmc.msu.ru/) with a strong interest in **Machine Learning**, **Deep Learning**, **Computer Vision**, and applied research.
-
-I enjoy studying how modern machine learning methods work under the hood, implementing algorithms from scratch, experimenting with models, and building practical projects around data, optimization and neural networks.
-
-Welcome to my GitHub profile — here you can find my coursework, practical assignments, research experiments and machine learning projects.
+Welcome to my GitHub profile - here you can find my coursework, practical assignments, research experiments and other projects.
 
 ---
 
@@ -15,35 +11,17 @@ Welcome to my GitHub profile — here you can find my coursework, practical assi
 * 🔬 Currently working on **quantization methods for diffusion models**
 * 🧠 Exploring **model compression, neural networks, optimization and generative models**
 * 🛠️ I like combining theory with practical implementation in Python
-* 📫 Reach me at **[Egor072005@yandex.ru](mailto:Egor072005@yandex.ru)**
-
----
-
-## 🔬 Current Research
-
-I'm currently working on a scientific course project focused on **post-training quantization of diffusion models**.
-
-The main research direction is based on **Residual Vector Quantization** with additional modifications, including:
-
-* orthogonal transformations;
-* layer-wise quantization budget allocation;
-* residual codebooks;
-* comparison with scalar and vector quantization baselines;
-* evaluation against advanced diffusion model quantization methods such as VQ-DM.
-
-The goal of the project is to develop a quantization algorithm that preserves generation quality while significantly reducing quantization time on large diffusion models.
 
 ---
 
 ## 🔧 Skills
 
-* **Languages**: Python, C++
-* **Machine Learning**: classical ML algorithms, linear models, SVM, kNN, ensembles, gradient boosting
+* **Languages**: Python, C++, C#, C, Java, Golang
+* **Machine Learning**: linear models, SVM, kNN, ensembles, gradient boosting
 * **Deep Learning**: PyTorch, neural networks, CNNs, RNNs, transformers, GANs
 * **Computer Vision**: image processing, segmentation, object detection, contour analysis, recognition pipelines
 * **Data Science**: NumPy, pandas, scikit-learn, Matplotlib
-* **Tools**: Git, Linux
-* **Research Areas**: diffusion models, model compression, vector quantization, optimization
+* **Tools**: Git, Linux, SQL
 
 ---
 
@@ -85,18 +63,6 @@ The goal of the project is to develop a quantization algorithm that preserves ge
 
 ---
 
-## 📚 Main Interests
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Diffusion Models
-* Model Compression
-* Vector Quantization
-* Optimization Methods
-* Research-oriented Python development
-
----
 
 <!--
 ## 📈 GitHub Stats
